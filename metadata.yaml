@@ -1,0 +1,31 @@
+_repo: Die-Entstehung-der-Kontinente-und-Ozeane_45460
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45460-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wegener, Alfred
+    alias: Wegener, Alfred Lothar
+    birthdate: 1880
+    deathdate: 1930
+    gutenberg_agent_id: '43299'
+    url: http://www.gutenberg.org/2009/agents/43299
+description: ''
+gutenberg_issued: '2014-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45460'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GB'
+- !lcsh 'Continents'
+- !lcsh 'Ocean'
+- !lcsh 'Continental drift'
+- !lcsh 'Geology, Structural'
+- !lcc 'QE'
+title: Die Entstehung der Kontinente und Ozeane
+url: http://www.gutenberg.org/ebooks/45460
